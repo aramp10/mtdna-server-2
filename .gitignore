@@ -7,3 +7,6 @@ work
 .nf-test
 cloudgene.report.json
 out
+containers
+results
+sample_S.bam
