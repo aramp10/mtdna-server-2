@@ -29,7 +29,7 @@ Release [v2.1.10](../../releases/tag/v2.1.10) - Improved mutect2 support: create
 
 # BU SCC Instructions
 
-[INC20738179](https://bu.service-now.com/now/nav/ui/classic/params/target/incident.do%3Fsys_id%3D0d34ff11835c7e1076b75ddfeeaad30c)
+Ticket: [INC20738179](https://bu.service-now.com/now/nav/ui/classic/params/target/incident.do%3Fsys_id%3D0d34ff11835c7e1076b75ddfeeaad30c)
 * Error message: `Failed to pull singularity image`
 * Root cause/issue: the container build was initiated on a node not configured for container building
 * Solution Provided: instructions for
