@@ -37,10 +37,10 @@ Release [v2.1.10](../../releases/tag/v2.1.10) - Improved mutect2 support: create
 2. Update the pipeline configuration to use the local image
 3. Run the pipeline with the test profile
 
-**Note:** the nextflow.config file has been updated to configure the pipeline to submit each task as a separate job. 
+**Note:** the `nextflow.config` file has been updated to configure the pipeline to submit each task as a separate job. 
 
 Requirements
-* The required container has bee locally built and is saved in a "containers" folder - as described in the ticket
+* The required container has been locally built and is saved in a "containers" folder - as described in the ticket
 * The small input data file (`sample_S.bam`) has been downloaded to the working directory (same location as the main.nf)
 
 Here are the commands for running the pipeline on the SCC:
